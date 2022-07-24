@@ -1,0 +1,25 @@
+{
+ "perguntas":  [
+        {
+            "_id": 1,
+            "titulo": "PISTA 1- ganhadeira Joana",
+            "descricao": "Naquela época era comum escravos venderem para seus senhores nas praças e ficarem com uma pequena porção dos ganhos para si. Joana era ganhadeira assim como Inaê e estava na praça quando ambos chegaram na Bahia. Ela lembra que Itan foi vendido para alguém que vivia na capital da província.",
+            "options": [
+                {
+                    "label":"Havana",
+                    "value": false
+                },
+                {
+                    "label":"Salvador",
+                    "value": true
+                },
+                {
+                    "label":"Estados Unidos",
+                    "value": false
+                },
+                {
+                    "label":"Uruguai",
+                    "value": false
+                }
+            ]
+        }
